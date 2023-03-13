@@ -68,6 +68,31 @@
         "value": "",
         "required": true
       },
+      "SPOTIFY_CLIENT_ID": {
+        "description": "Spotify Client Id",
+        "value": "",
+        "required": true
+      },
+      "SPOTIFY_CLIENT_SECRET": {
+        "description": "Spotify Client Secret",
+        "value": "",
+        "required": true
+      },
+      "START_IMG_URL": {
+        "description": "Start Image telegraph link",
+        "value": "",
+        "required": true
+      },
+      "SUPPORT_CHANNEL": {
+        "description": "SUPPORT CHANNEL LINK",
+        "value": "",
+        "required": true
+      },  
+      "SUPPORT_GROUP": {
+        "description": "Support group link",
+        "value": "",
+        "required": true
+      },  
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
         "value": "https://github.com/TeamYukki/YukkiMusicBot",
