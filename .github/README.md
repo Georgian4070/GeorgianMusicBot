@@ -57,3 +57,7 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+
+
+# Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Georgian4070/GeorgianMusicBot)
